@@ -20,7 +20,7 @@ Software, station setup, operational guidance, and shared resources for MagNet m
 
 [SpotterX downloads & setup](https://magnet-hf.github.io/software/spotterx/)
 
-A JS8Call companion for mapping, messages, forms, and station awareness. MAGNET-HF is its primary project home. Its hub page tracks the verified download location during the transition from the legacy Mag-Windows repository.
+A JS8Call companion for mapping, messages, forms, and station awareness. MAGNET-HF is its primary project home. Visit the [dedicated SpotterX repository](https://github.com/Magnet-HF/SpotterX) for releases, setup, and support.
 
 ## Software used by MagNet
 
